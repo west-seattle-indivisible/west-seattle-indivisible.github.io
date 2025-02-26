@@ -1,5 +1,6 @@
 main:
-  - title: "Who We Are"
-    url: /who-we-are/
+  - 
+  #- title: "Who We Are"
+  #  url: /who-we-are/
   - title: "Join Us"
     url: /join-us/

@@ -4,4 +4,4 @@ title: Join Us
 permalink: /join-us/
 ---
 
-Join us by sending an email to [westseattleindivisible@gmail.com](mailto:westseattleindivisible@gmail.com).
+To get involved or find out more, please send us an email: [westseattleindivisible@gmail.com](mailto:westseattleindivisible@gmail.com).
