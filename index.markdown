@@ -34,4 +34,4 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Our bias is toward democracy, and democracy is under threat. Our intention is to stand together and fight back in defense of our rights, our communities, and our values.
+Our bias is toward democracy, and our democracy is under threat. We stand together and fight back in defense of our rights, our communities, and our values.
