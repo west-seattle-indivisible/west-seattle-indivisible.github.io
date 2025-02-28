@@ -14,20 +14,20 @@ intro:
 feature_row:
   - image_path: assets/images/west-seattle-statue.jpg
     alt: "placeholder image 1"
-    title: "Upcoming Events"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Media"
+    excerpt: "Photos and videos of our engagement"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/west-seattle.jpg
+  - image_path: assets/images/west-seattle-statue.jpg
     alt: "placeholder image 2"
-    title: "In The Media"
+    title: "Join Us"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/west-seattle.jpg
-    title: "Donate"
+  - image_path: assets/images/west-seattle-statue.jpg
+    title: "Issues"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
@@ -35,3 +35,12 @@ feature_row:
 ---
 
 Our bias is toward democracy, and our democracy is under threat. We stand together and fight back in defense of our rights, our communities, and our values.
+
+## Why Are You Here?
+
+{% include video id="1058799183" provider="vimeo" %}
+
+## American Values: “Do You Hate America?"
+
+{% include video id="1059111593" provider="vimeo" %}
+

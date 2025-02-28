@@ -2,5 +2,7 @@ main:
   - 
   #- title: "Who We Are"
   #  url: /who-we-are/
+  # - title: "Media"
+  #  url: /media/
   - title: "Join Us"
     url: /join-us/
