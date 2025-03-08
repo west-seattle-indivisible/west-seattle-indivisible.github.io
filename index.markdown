@@ -44,3 +44,6 @@ Our bias is toward democracy, and our democracy is under threat. We stand togeth
 
 {% include video id="1059111593" provider="vimeo" %}
 
+## "DOGE vs. USAID" Protests in Seattle
+
+{% include video id="1061939778" provider="vimeo" %}
